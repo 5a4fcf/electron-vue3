@@ -4,6 +4,7 @@
   "description": "Electron + Vue 3 setup",
   "main": "main.js",
   "scripts": {
+    "start": "electron .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
@@ -11,5 +12,8 @@
     "vue3"
   ],
   "author": "5A4FCF",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^20.0.2"
+  }
 }
