@@ -1,0 +1,15 @@
+{
+  "name": "electron-vue3",
+  "version": "1.0.0",
+  "description": "Electron + Vue 3 setup",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "electron",
+    "vue3"
+  ],
+  "author": "5A4FCF",
+  "license": "ISC"
+}
